@@ -1,0 +1,47 @@
+{
+    "photos": [
+      {
+        "id": 1,
+        "url": "https://example.com/images/photo1.jpg",
+        "popularity": 85,
+        "visit": 1200
+      },
+      {
+        "id": 2,
+        "url": "https://example.com/images/photo2.jpg",
+        "popularity": 92,
+        "visit": 1500
+      },
+      {
+        "id": 3,
+        "url": "https://example.com/images/photo3.jpg",
+        "popularity": 78,
+        "visit": 800
+      },
+      {
+        "id": 4,
+        "url": "https://example.com/images/photo4.jpg",
+        "popularity": 62,
+        "visit": 415
+      },
+      {
+        "id": 5,
+        "url": "https://example.com/images/photo5.jpg",
+        "popularity": 45,
+        "visit": 400
+      },
+      {
+        "id": 6,
+        "url": "https://example.com/images/photo6.jpg",
+        "popularity": 35,
+        "visit": 650
+      },
+      {
+        "id": 7,
+        "url": "https://example.com/images/photo7.jpg",
+        "popularity": 78,
+        "visit": 700
+      }
+    ]
+  }
+  

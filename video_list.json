@@ -1,0 +1,21 @@
+{
+    "videos": [
+      {
+        "name": "Introduction to JavaScript",
+        "videoUrl": "https://example.com/videos/intro_javascript.mp4"
+      },
+      {
+        "name": "Understanding Python Basics",
+        "videoUrl": "https://example.com/videos/python_basics.mp4"
+      },
+      {
+        "name": "Graphic Design Principles",
+        "videoUrl": "https://example.com/videos/graphic_design_principles.mp4"
+      },
+      {
+        "name": "UI/UX Design Trends",
+        "videoUrl": "https://example.com/videos/ui_ux_trends.mp4"
+      }
+    ]
+  }
+  

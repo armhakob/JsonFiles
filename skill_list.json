@@ -1,0 +1,35 @@
+{
+    "skillTypes": [
+      {
+        "title": "Programming",
+        "skills": [
+          {
+            "name": "JavaScript",
+            "description": "A versatile scripting language used for creating interactive web pages.",
+            "imgUrl": "https://example.com/images/javascript.png"
+          },
+          {
+            "name": "Python",
+            "description": "A high-level programming language known for its readability and broad usage in various domains.",
+            "imgUrl": "https://example.com/images/python.png"
+          }
+        ]
+      },
+      {
+        "title": "Design",
+        "skills": [
+          {
+            "name": "Graphic Design",
+            "description": "The art of creating visual content to communicate messages.",
+            "imgUrl": "https://example.com/images/graphic_design.png"
+          },
+          {
+            "name": "UI/UX Design",
+            "description": "Designing user interfaces and experiences for software and web applications.",
+            "imgUrl": "https://example.com/images/ui_ux_design.png"
+          }
+        ]
+      }
+    ]
+  }
+  
