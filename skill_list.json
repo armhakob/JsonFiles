@@ -12,6 +12,16 @@
             "name": "Python",
             "description": "A high-level programming language known for its readability and broad usage in various domains.",
             "imgUrl": "https://example.com/images/python.png"
+          },
+          {
+            "name": "Java",
+            "description": "A high-level programming language known for its readability and broad usage in various domains.",
+            "imgUrl": "https://example.com/images/python.png"
+          },
+          {
+            "name": "C++",
+            "description": "A high-level programming language known for its readability and broad usage in various domains.",
+            "imgUrl": "https://example.com/images/python.png"
           }
         ]
       },
